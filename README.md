@@ -1,0 +1,1 @@
+# In this Repo I am exploring basics of Alorithmic Trading
