@@ -1,3 +1,0 @@
-yfinance
-alpha_vantage
-python-dotenv

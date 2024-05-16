@@ -1,0 +1,5 @@
+yfinance
+alpha_vantage
+python-dotenv
+stocktrends
+TA-Lib
